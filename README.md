@@ -74,7 +74,7 @@ To submit your assignment for evaluation, follow the execution steps precisely.
 Send an email using the following parameters:
 
 * **To:** `service@smartsurgerytek.com`
-* **Subject Line:** `Mid-Level Machine Learning Engineer Technical Assignment Submission`
+* **Subject Line:** `Mid-Level Fullstack Software Engineer (Python) Technical Assignment Submission`
 * **Email Body Content:**
     * Your full legal name and preferred phone contact details.
     * A brief cover letter introducing yourself, highlighting key architectural takeaways from your implementation.
